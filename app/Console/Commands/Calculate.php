@@ -7,7 +7,6 @@ use Illuminate\Console\Command;
 
 class Calculate extends Command
 {
-    private $calculator = null;
 
     /**
      * The name and signature of the console command.
@@ -41,10 +40,10 @@ class Calculate extends Command
     public function handle()
     {
         $parameters = $this->arguments();
-        $this->calculator = new AdvancedCalculator(intval($parameters['firstParameter']),
+        $calculator = new AdvancedCalculator(intval($parameters['firstParameter']),
             intval($parameters['secondParameter']));
 
-        $this->calculator->execute();
+        $calculator->execute();
 
         return null;
     }

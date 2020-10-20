@@ -6,7 +6,6 @@ namespace App\Services;
 
 class AdvancedCalculator extends Calculator
 {
-    private const independient = 10;
 
     public function equation(): float
     {

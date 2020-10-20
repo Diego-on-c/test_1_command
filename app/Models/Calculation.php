@@ -17,4 +17,8 @@ class Calculation extends Model
         'init_calculation',
         'end_calculation',
     ];
+
+    public static function create(array $array)
+    {
+    }
 }

@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6799aa80-f5e8-48a5-8b43-7b49fd68d0b5" name="Default Changelist" comment="" />
+    <list default="true" id="6799aa80-f5e8-48a5-8b43-7b49fd68d0b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Console/Commands/Calculate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Console/Commands/Calculate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Calculation.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Calculation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Services/AdvancedCalculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Services/AdvancedCalculator.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +34,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -140,6 +167,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -158,20 +186,40 @@
       <updated>1603187831528</updated>
       <workItem from="1603187832591" duration="2814000" />
       <workItem from="1603198177759" duration="1374000" />
+      <workItem from="1603200995449" duration="2014000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="1516" y="392" width="398" height="637" key="#com.intellij.ide.util.MemberChooser" timestamp="1603188100215">
       <screen x="0" y="27" width="5360" height="1360" />
     </state>
     <state x="1516" y="392" width="398" height="637" key="#com.intellij.ide.util.MemberChooser/0.27.5360.1360@0.27.5360.1360" timestamp="1603188100215" />
+    <state x="485" y="104" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603201859825">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="485" y="104" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.806@0.23.1440.806" timestamp="1603201859825" />
     <state x="1511" y="434" width="471" height="559" key="NewPhpClassDialog" timestamp="1603188284717">
       <screen x="0" y="27" width="5360" height="1360" />
     </state>
     <state x="1511" y="434" width="471" height="559" key="NewPhpClassDialog/0.27.5360.1360@0.27.5360.1360" timestamp="1603188284717" />
+    <state x="233" y="65" key="SettingsEditor" timestamp="1603201001117">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="233" y="65" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1603201001117" />
   </component>
 </project>
